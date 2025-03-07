@@ -50,7 +50,7 @@ Simply open the `index.html` file in your web browser to use the application.
 This project is **open-source** and available under the MIT License.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Suyash Bhavalkar](https://github.com/SuyashBhavalkar3)
 
 Feel free to contribute by reporting issues or suggesting new features!
 
