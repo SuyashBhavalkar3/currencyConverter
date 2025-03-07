@@ -22,8 +22,8 @@ The **Currency Converter Web App** is a simple and efficient tool designed to pr
 ## Installation & Usage
 ### 1. Clone the Repository
 ```sh
- git clone https://github.com/yourusername/currency-converter.git
- cd currency-converter
+ git clone https://github.com/yourusername/currencyConverter.git
+ cd currencyConverter
 ```
 ### 2. Open the Project
 Simply open the `index.html` file in your web browser to use the application.
